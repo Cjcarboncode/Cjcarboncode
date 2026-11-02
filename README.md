@@ -48,10 +48,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgur.com/7WI12vR.jpeg"  />
-
-###
-
 <div data-importer="socials" align="left">
   <a href="https://www.youtube.com/@Drobiniak" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -69,6 +65,14 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Cjcarboncode/Cjcarboncode/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="image" align="right" height="150" src="https://i.imgur.com/7WI12vR.jpeg"  />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cjcarboncode/Cjcarboncode/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cjcarboncode/Cjcarboncode/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cjcarboncode/Cjcarboncode/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
